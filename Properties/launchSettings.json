@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GridImage": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Reptus\\Desktop\\pascu.png 5 5 3"
+    }
+  }
+}
